@@ -1,4 +1,4 @@
 # test
 
-![test1](https://img.shields.io/github/directory-file-count/badges/shields)
-![](https://img.shields.io/github/directory-file-count/noppanutn/test)
+![](https://tokei.rs/b1/github/Ameobea/cryptoviz?category=files)
+![](https://tokei.rs/b1/github/noppanutn/test?category=files)
